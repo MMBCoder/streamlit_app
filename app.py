@@ -16,7 +16,7 @@ if not openai_api_key:
     st.stop()
 
 # Streamlit UI
-st.title("Code Generator")
+st.title("Text For Tech Generator")
 st.write("Generate code, write emails, or paraphrase text using AI.")
 
 # User input
