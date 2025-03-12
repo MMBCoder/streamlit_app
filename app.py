@@ -54,7 +54,7 @@ load_custom_css()
 
 # Streamlit UI
 st.markdown("""
-    <h1 style='text-align: center; color: #2e3a59;'>🚀 AI Text and Code Generator</h1>
+    <h1 style='text-align: center; color: #2e3a59;'>🚀 Text For Tech Generator</h1>
     <p style='text-align: center; font-size: 18px; color: #666;'>Generate code, write emails, or paraphrase text with AI.</p>
     """, unsafe_allow_html=True)
 
